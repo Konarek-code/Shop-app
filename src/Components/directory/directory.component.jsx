@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import CategoryItem from '../category-item/category-item.component';
 
 const Directory = ({categories}) =>{
