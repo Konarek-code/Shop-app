@@ -23,15 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest",
-      "eslint:recommended",
-      "plugin:react/recommended",
-      "plugin:react/jsx-runtime"
-    ]
-  },
+  
   "browserslist": {
     "production": [
       ">0.2%",
@@ -45,7 +37,5 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^8.57.0",
-    "eslint-plugin-react": "^7.33.2"
   }
 }
